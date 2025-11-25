@@ -4,7 +4,7 @@ A comprehensive data science project leveraging advanced analytics and machine l
 
 ## Overview
 
-As urban populations continue to expand globally, understanding and improving city sustainability has become paramount. This project presents an end-to-end data science workflow that analyzes, visualizes, and models sustainability indicators across diverse metropolitan areas worldwide.
+As urban populations continue to expand globally, understanding and improving city sustainability has become paramount. This project presents an end-to-end data science workflow that analyzes, visualizes and models sustainability indicators across diverse metropolitan areas worldwide.
 
 The analysis combines exploratory data analysis, dimensionality reduction techniques, clustering algorithms and predictive modeling to provide actionable insights for urban planners and policymakers.
 
@@ -196,4 +196,5 @@ The project successfully demonstrates -
 </p>
 
 These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
+
 
