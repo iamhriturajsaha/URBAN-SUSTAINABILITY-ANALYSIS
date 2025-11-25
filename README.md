@@ -83,7 +83,7 @@ Dendrogram-based analysis revealing natural groupings among cities.
 Segmentation of cities into distinct sustainability profiles.
 
 <p align="center">
-  <img src="Images/3.png" alt="1" width="1000"/><br>
+  <img src="Images/6.png" alt="1" width="1000"/><br>
 </p>
 
 ### 4. Predictive Modeling
@@ -196,3 +196,4 @@ The project successfully demonstrates -
 </p>
 
 These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
+
