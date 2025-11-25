@@ -1,4 +1,4 @@
-# Urban Sustainability Analysis
+# 🏙️♻️Urban Sustainability Analysis
 
 A comprehensive data science project leveraging advanced analytics and machine learning to analyze urban sustainability metrics across global cities.
 
@@ -122,3 +122,4 @@ The project successfully demonstrates -
 - **Visualization** - Comprehensive visual analytics facilitating stakeholder communication.
 
 These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
+
