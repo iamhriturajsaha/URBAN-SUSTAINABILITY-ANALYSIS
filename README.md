@@ -36,27 +36,55 @@ The dataset comprises comprehensive sustainability metrics for global cities, in
 **Correlation Analysis**  
 Comprehensive heatmap analysis revealing relationships between sustainability variables.
 
+<p align="center">
+  <img src="Images/1.png" alt="1" width="1000"/><br>
+</p>
+
 **Distribution Analysis**  
 Kernel Density Estimation (KDE) plots examining feature distributions and patterns.
+
+<p align="center">
+  <img src="Images/2.png" alt="1" width="1000"/><br>
+</p>
 
 **Multivariate Relationships**  
 Pairplot analysis identifying interactions between key sustainability indicators.
 
+<p align="center">
+  <img src="Images/3.png" alt="1" width="1000"/><br>
+</p>
+
 **Outlier Detection**  
 Boxplot analysis detecting anomalies and variability across metrics.
+
+<p align="center">
+  <img src="Images/4.png" alt="1" width="1000"/><br>
+</p>
 
 ### 2. Dimensionality Reduction
 
 **Principal Component Analysis (PCA)**  
 Reduction of high-dimensional data into 2D space for enhanced visualization and pattern recognition.
 
+<p align="center">
+  <img src="Images/5.png" alt="1" width="1000"/><br>
+</p>
+
 ### 3. Clustering Analysis
 
 **Hierarchical Clustering**  
 Dendrogram-based analysis revealing natural groupings among cities.
 
+<p align="center">
+  <img src="Images/7.png" alt="1" width="1000"/><br>
+</p>
+
 **K-Means Clustering**  
 Segmentation of cities into distinct sustainability profiles.
+
+<p align="center">
+  <img src="Images/3.png" alt="1" width="1000"/><br>
+</p>
 
 ### 4. Predictive Modeling
 
@@ -75,12 +103,42 @@ Segmentation of cities into distinct sustainability profiles.
 - Root Mean Squared Error (RMSE).
 - R² Score.
 
+<p align="center">
+  <img src="Model Training Screenshot.png" alt="1" width="1000"/><br>
+</p>
+
 ### 5. Model Diagnostics
 
 **Residual Analysis**
 - Distribution normality assessment.
 - Homoscedasticity verification.
 - Bias and outlier detection.
+
+<p align="center">
+  <img src="Images/16.png" alt="1" width="1000"/><br>
+</p>
+
+<p align="center">
+  <img src="Images/17.png" alt="1" width="1000"/><br>
+</p>
+
+## Interactive Dashboards Screenshots
+
+<p align="center">
+  <img src="Images/8.png" alt="1" width="1000"/><br>
+</p>
+
+<p align="center">
+  <img src="Images/9.png" alt="1" width="1000"/><br>
+</p>
+
+<p align="center">
+  <img src="Images/10.png" alt="1" width="1000"/><br>
+</p>
+
+<p align="center">
+  <img src="Images/11.png" alt="1" width="1000"/><br>
+</p>
 
 ## Key Findings
 
@@ -99,6 +157,10 @@ Segmentation of cities into distinct sustainability profiles.
    - Public transport efficiency.
    - Waste management systems.
    - Green cover percentage.
+  
+<p align="center">
+  <img src="Images/12.png" alt="1" width="1000"/><br>
+</p>
 
 ## Technologies
 
@@ -121,5 +183,16 @@ The project successfully demonstrates -
 - **Segmentation** - Meaningful city clusters enabling targeted sustainability strategies.
 - **Visualization** - Comprehensive visual analytics facilitating stakeholder communication.
 
-These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
+<p align="center">
+  <img src="Images/13.png" alt="1" width="1000"/><br>
+</p>
 
+<p align="center">
+  <img src="Images/14.png" alt="1" width="1000"/><br>
+</p>
+
+<p align="center">
+  <img src="Images/15.png" alt="1" width="1000"/><br>
+</p>
+
+These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
