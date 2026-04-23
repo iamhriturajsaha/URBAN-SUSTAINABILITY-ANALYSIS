@@ -196,5 +196,3 @@ The project successfully demonstrates -
 </p>
 
 These insights provide evidence-based guidance for urban development initiatives and sustainability policy formulation.
-
-
